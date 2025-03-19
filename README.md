@@ -1,2 +1,2 @@
-# pasta-105
+# pastaking
 King of Pasta
